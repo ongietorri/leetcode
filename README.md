@@ -1,3 +1,3 @@
 # leetcode
 
-My solutions to leetcode.com problems.
+My solutions to leetcode problems.
